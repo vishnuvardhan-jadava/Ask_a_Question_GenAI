@@ -4,7 +4,7 @@ This is a web application where users can ask questions and get answers from Goo
 
 ## Built With
 
-- [Google Gemin Pro](https://developers.google.com/gemin-pro](https://blog.google/technology/ai/google-gemini-ai/)
+- [Google Gemin Pro](https://blog.google/technology/ai/google-gemini-ai/)
 - [Streamlit](https://streamlit.io/)
 
 ## Features
